@@ -1,0 +1,30 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+main{
+  background-color: white;
+  width: 340px;
+  margin: 100px auto;
+  border-radius: 20px;
+  padding:20px 20px 40px 20px;
+  
+}
+img{
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+p{
+  text-align: center;
+  font-family:"Outfit", sans-serif;
+  padding: 0 20px;
+}
+P:nth-of-type(1){
+font-weight: 700;
+font-size: 20px;
+margin-top: 30px;
+}
+P:nth-of-type(2){
+  font-weight: 400;
+  font-size: 15px;
+  }
